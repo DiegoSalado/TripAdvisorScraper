@@ -10,4 +10,4 @@ This is a end-to-end solution for the challenge to do the following:
 - Generate deliverables for the data engineering team: python scripts, and csv files.
 
 
-[*Notebook*](https://github.com/DiegoSalado/Data_Analist_Challenge/tree/main/Notebooks) directory contains two files, one that do web scraping and obtain the data saved in the [*Data*](https://github.com/DiegoSalado/Data_Analist_Challenge/tree/main/Data) directory. The second file is a analysis of this data to generate a new variable.
+[*Notebook*](https://github.com/DiegoSalado/Data_Analist_Challenge/tree/main/Notebooks) directory contains two files, one do web scraping and obtain the data saved in the [*Data*](https://github.com/DiegoSalado/Data_Analist_Challenge/tree/main/Data) directory. The second file is a analysis of this data to generate a new variable.
