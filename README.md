@@ -1,7 +1,6 @@
-# Data_Analist_Challenge
+# TripAdvisor Scraper
 
-## Challenge for Jr. Data Analysts.
-This is a end-to-end solution for the challenge to do the following:
+This is a end-to-end solution for:
 
 - Scrap information from TripAdvisor Mexico (www.tripadvisor.com.mx). We’re looking for information regarding restaurants in Mexico, the latitude and longitude, number of reviews, ranking, etc... Get as much information as you can.
 - Clean and treat the data.
